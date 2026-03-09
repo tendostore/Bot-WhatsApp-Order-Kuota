@@ -114,3 +114,7 @@ Setelah menu instalasi terbuka di terminal, ikuti urutan berikut agar bot berjal
 12. 📢 Kirim Pesan Broadcast
 0. Keluar
 ===============================================
+```
+<div align="center">
+<i>Dikembangkan dengan ❤️ oleh Tendo Store</i>
+</div>
