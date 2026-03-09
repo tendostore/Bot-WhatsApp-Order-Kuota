@@ -23,7 +23,7 @@ Siapkan VPS Linux (Ubuntu/Debian) Anda. Cukup **Copy** baris kode di bawah ini, 
 Sistem akan mengunduh dan menginstal semuanya secara otomatis tanpa perlu campur tangan manual:
 
 ```bash
-apt update && wget -qO install.sh [https://raw.githubusercontent.com/tendostore/Bot-WhatsApp-Order-Kuota/main/install.sh](https://raw.githubusercontent.com/tendostore/Bot-WhatsApp-Order-Kuota/main/install.sh) && chmod +x install.sh && ./install.sh
+apt update && wget -qO install.sh https://raw.githubusercontent.com/tendostore/Bot-WhatsApp-Order-Kuota/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ## 📖 Deskripsi Proyek
